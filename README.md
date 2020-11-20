@@ -283,8 +283,7 @@ manera activa, creativa y, sobre todo, responsable.
 d) Atender la diversidad de talentos y de procesos y ritmos de aprendizaje,
 particularmente aquéllos que tienen necesidades específicas de apoyo educativo.
 
-### XVI Derechos digitales de la ciudadanía en sus relaciones con las
-Administraciones públicas
+### XVI Derechos digitales de la ciudadanía en sus relaciones con las Administraciones públicas
 
 1. Se reconoce el derecho de igualdad en el acceso a los servicios públicos y en las
 relaciones digitales con las Administraciones públicas. A tal fin se promoverán políticas
@@ -391,8 +390,7 @@ productos basados en la tecnología (sandbox).
 
 ## DERECHOS DIGITALES EN ENTORNOS ESPECÍFICOS
 
-### XIX Derecho de acceso a datos con fines de investigación científica, innovación y
-desarrollo
+### XIX Derecho de acceso a datos con fines de investigación científica, innovación y desarrollo
 
 1. El uso de los datos del sector público y privado para el bien común se considera un
 bien de interés general.
