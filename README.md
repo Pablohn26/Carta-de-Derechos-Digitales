@@ -294,7 +294,7 @@ públicas activas que garanticen el acceso a los sistemas y los procedimientos.
 públicas guiará la actuación de la Administración digital, de conformidad con la
 normativa sectorial. En particular, se garantizará el derecho de acceso a la información
 pública, se promoverá la publicidad activa y la rendición de cuentas y se velará por la
-portabilidad de los datos y la interoperabilidad de los formatos, sistemas y aplicaciones.
+portabilidad de los datos y la interoperabilidad de los formatos, sistemas y aplicaciones utilizando tecnología libre.
 4. Siempre que sea posible se promoverá la universalidad y la neutralidad de las
 tecnologías usadas por las Administraciones públicas, así como su diseño y uso
 conforme a los principios éticos que acompañan a esta Carta. Así mismo se adoptarán
